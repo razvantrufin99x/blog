@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="blog.blog">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAARAQAAAABUAYAAEDAAIIgBAAIgCAAAABBAAAAQ=</HashCode>
+      <FileName>blog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blog.blogEditor">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>blogeditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blog.element">
+    <Position X="5.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAYAAAAAAAAAAEBAAAAAABAAAAACAAA=</HashCode>
+      <FileName>element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blog.Form1">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAIAAACAAAACAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blog.meniu">
+    <Position X="3.25" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAIAAAAAAAAAAADAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>meniu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blog.pagina">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAAAAAAAQCAAAAAAAAAAAAAAAAABAAAAAAAQA=</HashCode>
+      <FileName>pagina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blog.paginiEditor">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>paginiEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blog.persoana">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAYAAAAAAAABAAAAAAAAAAAEAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>persoana.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blog.Program">
+    <Position X="8.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blog.punct2d">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>punct2d.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blog.Properties.Resources">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blog.Properties.Settings">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
